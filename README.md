@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**khanhtan-user/khanhtan-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tran Ho Khanh Tan**
 
-Here are some ideas to get you started:
+🎓 Integrated Circuit Design Student at FPT University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in:
+
+- RTL Design
+- Functional Verification
+- Digital IC Design
+
+## Technical Skills
+
+- Verilog HDL
+- C++
+- Mentor Questa
+- ModelSim
+- Xilinx Vivado
+- Gowin IDE
+- Git
+- Linux
+
+## Featured Project
+
+### 64-bit APB Timer IP
+
+Designed and verified a configurable 64-bit APB Timer IP using Verilog HDL.
+
+🔗 Project:
+github.com/khanhtan-user/PROJECT_IP-Timer
+
+---
+
+Currently learning:
+
+- SystemVerilog
+- UVM
+- Advanced Verification
