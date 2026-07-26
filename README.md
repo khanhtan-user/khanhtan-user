@@ -32,7 +32,7 @@ github.com/khanhtan-user/PROJECT_IP-Timer
 
 ---
 
-Currently learning:
+Future learning:
 
 - SystemVerilog
 - UVM
