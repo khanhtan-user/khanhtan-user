@@ -23,12 +23,20 @@ I am interested in:
 
 ## Featured Project
 
+### Synchronous FIFO
+
+Designed and verified a configurable 8 bit FIFO using Verilog HDL.
+
+🔗 Project:https://github.com/khanhtan-user/Sync_FIFO
+
+
 ### 64-bit APB Timer IP
 
 Designed and verified a configurable 64-bit APB Timer IP using Verilog HDL.
 
 🔗 Project:
-github.com/khanhtan-user/PROJECT_IP-Timer
+[github.com/khanhtan-user/PROJECT_IP-Timer](https://github.com/khanhtan-user/PROJECT_IP-Timer)
+
 
 ---
 
